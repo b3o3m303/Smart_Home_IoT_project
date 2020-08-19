@@ -1,5 +1,6 @@
 # IoT_SmartHome
-# 全國大專校院智慧創新暨跨域整合創作競賽
+# Arduino、raspberry pi、php、MySQL、ReactNative
+該專案為針對2019全國大專校院智慧創新暨跨域整合創作競賽所製作
 
 以樹梅派作為中控中心，在樹梅派上頭建立資料庫來控管家中硬體設備狀況，透過Arduino串接各種感測器並且由Wifi晶片連上網路；手機端部分用使用ReactNative開發APP控制中控中心。
 
